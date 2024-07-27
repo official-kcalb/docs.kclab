@@ -1,26 +1,32 @@
-# docs.kclab
-Comprehensive and up-to-date information about Kcalb's projects, activities, and future plans.
+---
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-# Kcalb Documentation
+# Introduction
 
-Welcome to the [**Kcalb Documentation**](https://kcalb.org). This space was created to provide comprehensive information about our projects. Here, you will find up-to-date details on Kcalb's past, present, and future activities, offering a deep understanding of our initiatives and vision.
+Registered in **London** in the United Kingdom under company number [**14132246**](https://find-and-update.company-information.service.gov.uk/company/14132246) since 2022.&#x20;
 
-## Purpose of This Documentation
+[**Kcalb Ltd**](https://kcalb.org/) is dedicated to developing an **innovative** blockchain ecosystem. With a team passionate about the metaverse, the company focuses on creating advanced and accessible technological solutions.&#x20;
 
-Transparency and accessibility are central to our mission at Kcalb. We firmly believe that well-structured documentation is essential for fostering collaboration and innovation. This documentation is designed to be interactive and easy to navigate, allowing all users, whether novices or experts, to find the information they need.
+By promoting innovation and valuing transparency, [**Kcalb Ltd**](https://kcalb.org/) transforms ambitious ideas into concrete **projects**, redefining industry standards.&#x20;
 
-## Contents of the Documentation
+Explore a world where cutting-edge technology and integrity come together to open new **horizons**.
 
-### Activity History
-- A detailed timeline of all initiatives and projects undertaken by Kcalb.
+### Jump right in
 
-### Current Projects
-- In-depth descriptions of ongoing projects.
-- Regular updates on progress and key milestones.
-
-### Future Vision
-- Plans and strategies for Kcalb's future developments.
-- Collaboration opportunities and areas of research interest.
-- Projections on long-term goals and expected impacts.
-
-In summary, this documentation is your central hub for everything related to Kcalb. It is regularly updated to reflect the latest information and developments. Thank you for your interest in our project and for following our exciting progress!
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
