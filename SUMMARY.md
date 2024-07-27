@@ -5,6 +5,7 @@
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
+* [Page expl](getting-started/page-expl.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
