@@ -11,7 +11,7 @@
   * [🔗 🔜︱Community](https://kcalb.community)
   * [🔗 🔜︱Investors](https://kcalb-investors.org)
 
-## ✨ OUR FEATURED
+## 🖥️ OUR FEATURED
 
 * [WEB 3.O](our-featured/editor/README.md)
   * [🔗 🔜︱InoGives](https://inogive.org)
@@ -30,11 +30,11 @@
   * [🔗 🔜︱Inoswap](https://inoswap.org)
   * [🔗  🔜︱InoPlay](https://inoplay.org)
 
-## 💻 Extra
+## ✅ Extra
 
 * [Brand Assets Guideline](extra/brand-assets-guideline.md)
 * [Opportunities](extra/opportunities/README.md)
-  * [🔗 🔜︱Career](https://discord.com/channels/1264248890635587636/1265292370400772147)
+  * [🔗 💻︱Career](https://discord.com/channels/1264248890635587636/1265292370400772147)
   * [🔗  🤝︱Partnership](https://discord.com/channels/1264248890635587636/1265221108844724246)
 
 ## 📓 Information Guides
