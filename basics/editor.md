@@ -1,4 +1,4 @@
-# Editor
+# WEB 3.O
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
