@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Kcalb Site Header 1.jpeg
-coverY: -151
+cover: .gitbook/assets/Kcalb Site 1.jpg
+coverY: 0
 layout:
   cover:
     visible: true
