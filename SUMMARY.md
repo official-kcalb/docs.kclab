@@ -30,23 +30,30 @@
   * [🔗 🔜︱Inoswap](https://inoswap.org)
   * [🔗  🔜︱InoPlay](https://inoplay.org)
 
+## 💻 Extra
+
+* [Brand Assets Guideline](extra/brand-assets-guideline.md)
+* [Opportunities](extra/opportunities/README.md)
+  * [🔗 🔜︱Career](https://discord.com/channels/1264248890635587636/1265292370400772147)
+  * [🔗  🤝︱Partnership](https://discord.com/channels/1264248890635587636/1265221108844724246)
+
 ## ‼️ TERMS & CONDITIONS
 
 * [Legal Policies](terms-and-conditions/legal-policies/README.md)
   * [➡️ 📜︱Terms & Conditions](terms-and-conditions/legal-policies/terms-and-conditions.md)
-  * [➡️ ⚖️︱Disclaimer](terms-and-conditions/disclaimer.md)
-  * [➡️ ✍️︱User Agreement](terms-and-conditions/user-agreement.md)
-  * [➡️ 🔒︱Acceptable Use](terms-and-conditions/acceptable-use.md)
-  * [➡️ 📚︱Intellectual Property](terms-and-conditions/intellectual-property.md)
+  * [➡️ ⚖️︱Disclaimer](terms-and-conditions/legal-policies/disclaimer.md)
+  * [➡️ ✍️︱User Agreement](terms-and-conditions/legal-policies/user-agreement.md)
+  * [➡️ 🔒︱Acceptable Use](terms-and-conditions/legal-policies/acceptable-use.md)
+  * [➡️ 📚︱Intellectual Property](terms-and-conditions/legal-policies/intellectual-property.md)
   * [➡️ ©️︱Copyright Policy](terms-and-conditions/legal-policies/c-copyright-policy.md)
 * [Privacy & Compliance](terms-and-conditions/privacy-and-compliance/README.md)
-  * [➡️ 🔐︱Cookie Policy](terms-and-conditions/cookie-policy.md)
+  * [➡️ 🔐︱Cookie Policy](terms-and-conditions/privacy-and-compliance/cookie-policy.md)
   * [➡️ 🇬🇧︱UK - GDPR](terms-and-conditions/privacy-and-compliance/uk-gdpr.md)
-  * [➡️ ♿️︱Accessibility](terms-and-conditions/accessibility.md)
+  * [➡️ ♿️︱Accessibility](terms-and-conditions/privacy-and-compliance/accessibility.md)
 * [Customer Services](terms-and-conditions/customer-services/README.md)
-  * [➡️ ❌︱Refund Policy](terms-and-conditions/refund-policy.md)
-  * [➡️ 🔄︱Returns Exchanges](terms-and-conditions/returns-exchanges.md)
-  * [➡️ 🚚︱Shipping Policy](terms-and-conditions/shipping-policy.md)
+  * [➡️ ❌︱Refund Policy](terms-and-conditions/customer-services/refund-policy.md)
+  * [➡️ 🔄︱Returns Exchanges](terms-and-conditions/customer-services/returns-exchanges.md)
+  * [➡️ 🚚︱Shipping Policy](terms-and-conditions/customer-services/shipping-policy.md)
 
 ## 📢 COMMUNITY CONNECT
 
