@@ -1,2 +1,2 @@
-# Join Our Newsletter
+# Brand Assets Guideline
 
