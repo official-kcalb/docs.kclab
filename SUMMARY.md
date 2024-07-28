@@ -39,7 +39,7 @@
 
 ## 📓 Information Guides
 
-* [GitBooks](information-guides/gitbooks/README.md)
+* [GitBooks](terms-and-conditions/legal-policies/README.md)
   * [🔗 📖︱Kcanther](https://docs.kcanther.org/)
   * [🔗 📖︱Kcalbcoin](https://docs.kcalbcoin.org)
   * [🔗 🔜︱Community](https://docs.kcalb.community/)
@@ -55,7 +55,7 @@
 
 ## ‼️ TERMS & CONDITIONS
 
-* [Legal Policies](terms-and-conditions/legal-policies/README.md)
+* [Legal Policies](<terms-and-conditions/legal-policies/README (1).md>)
   * [➡️ 📜︱Terms & Conditions](terms-and-conditions/legal-policies/terms-and-conditions.md)
   * [➡️ ⚖️︱Disclaimer](terms-and-conditions/legal-policies/disclaimer.md)
   * [➡️ ✍️︱User Agreement](terms-and-conditions/legal-policies/user-agreement.md)
@@ -73,10 +73,10 @@
 
 ## 📢 COMMUNITY CONNECT
 
-* [🔗 📌︱Facebook](https://discord.gg/nPVBTYcR)
+* [🔗 📌︱Facebook](https://www.facebook.com/official.kcalb/)
 * [🔗 📌︱Discord](https://discord.gg/nPVBTYcR)
-* [🔗 📌︱GitHub](https://discord.gg/nPVBTYcR)
-* [🔗 📌︱Instagram](https://discord.gg/nPVBTYcR)
-* [🔗 📌︱Linkedin](https://discord.gg/nPVBTYcR)
-* [🔗 📌︱Threads](https://discord.gg/nPVBTYcR)
-* [🔗 📌︱X](https://discord.gg/nPVBTYcR)
+* [🔗 📌︱GitHub](https://github.com/official-kcalb)
+* [🔗 📌︱Instagram](https://www.instagram.com/official\_kcalb/)
+* [🔗 📌︱Linkedin](https://www.linkedin.com/company/official-kcalb)
+* [🔗 📌︱Threads](https://www.threads.net/@official\_kcalb/)
+* [🔗 📌︱X](https://x.com/official\_kcalb)
