@@ -1,2 +1,2 @@
-# 🔐 Cookie Policy
+# ➡️ 🔐︱Cookie Policy
 

@@ -1,2 +1,2 @@
-# 📜 Terms & Conditions
+# ➡️ 📜︱Terms & Conditions
 
