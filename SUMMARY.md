@@ -37,6 +37,22 @@
   * [🔗 🔜︱Career](https://discord.com/channels/1264248890635587636/1265292370400772147)
   * [🔗  🤝︱Partnership](https://discord.com/channels/1264248890635587636/1265221108844724246)
 
+## 📓 Information Guides
+
+* [GitBooks](information-guides/gitbooks/README.md)
+  * [🔗 📖︱Kcanther](https://docs.kcanther.org/)
+  * [🔗 📖︱Kcalbcoin](https://docs.kcalbcoin.org)
+  * [🔗 🔜︱Community](https://docs.kcalb.community/)
+  * [🔗 🔜︱Investors](https://docs.kcalb-investors.org/)
+  * [🔗 🔜︱InoAi Info](https://docs.inoai.info)
+  * [🔗 🔜︱Ds-NFT](https://docs.ds-nft.org/)
+  * [🔗 🔜︱Inoswap](https://docs.inoswap.org/)
+  * [🔗 🔜︱InoGives](https://docs.inogives.org/)
+  * [🔗 🔜︱LinKcot$](https://docs.linkcots.org/)
+  * [🔗 🔜︱LinKstock Pro](https://docs.linkstock.pro/)
+  * [🔗 🔜︱LinkoMarket](https://docs.linkomarket.live/)
+  * [🔗 🔜︱Inoshop](https://docs.inoshop.org/)
+
 ## ‼️ TERMS & CONDITIONS
 
 * [Legal Policies](terms-and-conditions/legal-policies/README.md)
