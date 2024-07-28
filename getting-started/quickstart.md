@@ -6,7 +6,7 @@ description: >-
 
 # Goal
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Color logo with background.png" alt=""><figcaption></figcaption></figure>
 
 [**Kcalb** ](https://kcalb.org/)aims to become a leader in developing an innovative blockchain ecosystem.&#x20;
 
