@@ -24,7 +24,7 @@ Focusing on **innovation** and value **creation**, [**Kcalb** ](https://kcalb.or
 
 <div data-full-width="false">
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Kcalb Site 1.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
