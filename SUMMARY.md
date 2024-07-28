@@ -45,13 +45,13 @@
   * [🔗 🔜︱Community](https://docs.kcalb.community/)
   * [🔗 🔜︱Investors](https://docs.kcalb-investors.org/)
   * [🔗 🔜︱InoAi Info](https://docs.inoai.info)
-  * [🔗 🔜︱Ds-NFT](https://docs.ds-nft.org/)
   * [🔗 🔜︱Inoswap](https://docs.inoswap.org/)
   * [🔗 🔜︱InoGives](https://docs.inogives.org/)
+  * [🔗 🔜︱Inoshop](https://docs.inoshop.org/)
+  * [🔗 🔜︱Inoplay](https://docs.inoplay.org/)
   * [🔗 🔜︱LinKcot$](https://docs.linkcots.org/)
   * [🔗 🔜︱LinKstock Pro](https://docs.linkstock.pro/)
   * [🔗 🔜︱LinkoMarket](https://docs.linkomarket.live/)
-  * [🔗 🔜︱Inoshop](https://docs.inoshop.org/)
 
 ## ‼️ TERMS & CONDITIONS
 
