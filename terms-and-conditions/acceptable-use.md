@@ -1,2 +1,0 @@
-# Acceptable Use
-

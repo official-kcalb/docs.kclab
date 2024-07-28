@@ -8,14 +8,14 @@
 * [Behind the Scenes](getting-started/page-expl.md)
 * [🔗 🌐︱Official WebSite](https://kcalb.org)
 
-## ⚫ OUR FEATURED
+## ✨ OUR FEATURED
 
 * [NFT & Ds-NFT Collections](basics/markdown.md)
 * [Crypto Digital Currencies](basics/images-and-media.md)
 * [WEB 3.O](basics/editor.md)
 * [DeFi](basics/interactive-blocks.md)
 
-## ⚫ COMMUNITY CONNECT
+## 📢 COMMUNITY CONNECT
 
 * [🔗 🟢 ︱Discord](https://discord.gg/nPVBTYcR)
 * [🔗  🟢 ︱X](https://discord.gg/nPVBTYcR)
@@ -24,17 +24,20 @@
 * [🔗  🟢 ︱Threads](https://discord.gg/nPVBTYcR)
 * [🔗 🟢 ︱GitHub](https://discord.gg/nPVBTYcR)
 
-## ⚫ TERMS & CONDITIONS
+## ‼️ TERMS & CONDITIONS
 
-* [Accessibility](terms-and-conditions/accessibility.md)
-* [Acceptable Use](terms-and-conditions/acceptable-use.md)
-* [Cookie Policy](terms-and-conditions/cookie-policy.md)
-* [Copyright Policy](terms-and-conditions/copyright-policy.md)
-* [Disclaimer](terms-and-conditions/disclaimer.md)
-* [EULA](terms-and-conditions/eula.md)
-* [Intellectual Property](terms-and-conditions/intellectual-property.md)
-* [Refund Policy](terms-and-conditions/refund-policy.md)
-* [Returns Exchanges](terms-and-conditions/returns-exchanges.md)
-* [UK GDPR Compliance](terms-and-conditions/uk-gdpr-compliance.md)
-* [Shipping Policy](terms-and-conditions/shipping-policy.md)
-* [User Agreement](terms-and-conditions/user-agreement.md)
+* [Legal Policies](terms-and-conditions/legal-policies/README.md)
+  * [📜 Terms & Conditions](terms-and-conditions/legal-policies/terms-and-conditions.md)
+  * [⚖️ Disclaimer](terms-and-conditions/legal-policies/disclaimer.md)
+  * [✍️ User Agreement](terms-and-conditions/legal-policies/user-agreement.md)
+  * [🔒 Acceptable Use](terms-and-conditions/legal-policies/acceptable-use.md)
+  * [📚 Intellectual Property](terms-and-conditions/legal-policies/intellectual-property.md)
+  * [©️ Copyright Policy](terms-and-conditions/legal-policies/copyright-policy.md)
+* [Privacy & Compliance](terms-and-conditions/privacy-and-compliance/README.md)
+  * [🔐 Cookie Policy](terms-and-conditions/privacy-and-compliance/cookie-policy.md)
+  * [🇬🇧 UK GDPR Compliance](terms-and-conditions/privacy-and-compliance/uk-gdpr-compliance.md)
+  * [♿ Accessibility](terms-and-conditions/privacy-and-compliance/accessibility.md)
+* [Customer Services](terms-and-conditions/customer-services/README.md)
+  * [❌ Refund Policy](terms-and-conditions/customer-services/refund-policy.md)
+  * [🔁 Returns Exchanges](terms-and-conditions/customer-services/returns-exchanges.md)
+  * [🚚 Shipping Policy](terms-and-conditions/customer-services/shipping-policy.md)

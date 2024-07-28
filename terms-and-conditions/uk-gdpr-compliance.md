@@ -1,2 +1,0 @@
-# UK GDPR Compliance
-
