@@ -1,18 +1,23 @@
 # Table of contents
 
+## 💎 ABOUT US
+
 * [Introduction](README.md)
+* [Goal](about-us/quickstart.md)
+* [Behind the Scenes](about-us/behind-the-scenes.md)
+* [Official Website](about-us/official-website.md)
 
-## Getting Started
+## 🏴 OUR FEATURED
 
-* [Quickstart](getting-started/quickstart.md)
-* [Page expl](getting-started/page-expl.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [NFT & Ds-NFT Collections](our-featured/markdown.md)
+* [Crypto Digital Currencies](our-featured/images-and-media.md)
+* [WEB 3.O](our-featured/editor.md)
+* [DeFi](our-featured/interactive-blocks.md)
 
-## Basics
+## 🪐 COMMUNITY CONNECT
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & Media](basics/images-and-media.md)
-* [Interactive Blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [🔗 🌐︱Discord](community-connect/discord.md)
+
+## ⚖️ TERMS & CONDITIONS
+
+* [Page 2](terms-and-conditions/page-2.md)
