@@ -64,6 +64,7 @@
   * [➡️ ©️︱Copyright Policy](terms-and-conditions/legal-policies/c-copyright-policy.md)
 * [Privacy & Compliance](terms-and-conditions/privacy-and-compliance/README.md)
   * [➡️ 🔐︱Cookie Policy](terms-and-conditions/privacy-and-compliance/cookie-policy.md)
+  * [➡️ 🛡️︱Privacy Policy](terms-and-conditions/privacy-and-compliance/privacy-policy.md)
   * [➡️ 🇬🇧︱UK - GDPR](terms-and-conditions/privacy-and-compliance/uk-gdpr.md)
   * [➡️ ♿️︱Accessibility](terms-and-conditions/privacy-and-compliance/accessibility.md)
 * [Customer Services](terms-and-conditions/customer-services/README.md)
