@@ -18,6 +18,7 @@
   * [🔗 🔜︱Ds-NFT](https://ds-nft.org)
   * [🔗 🔜︱LinkoMarket](https://linkomarket.live)
   * [🔗 🔜︱LinkStock](https://linkstock.pro)
+  * [🔗 🔜︱InoShop](https://inoshop.org)
 * [NFT & Ds-NFT Collections](our-featured/markdown/README.md)
   * [🔗 ✅︱Kcanther](https://ds-nft.org)
   * [🔗 🔜︱InoAI Ds-NFT](https://inoai.ds-nft.org)
@@ -27,6 +28,7 @@
   * [🔗 🔜︱LinKcot$](https://linkcots.org)
 * [DeFi](our-featured/interactive-blocks/README.md)
   * [🔗 🔜︱Inoswap](https://inoswap.org)
+  * [🔗  🔜︱InoPlay](https://inoplay.org)
 
 ## ‼️ TERMS & CONDITIONS
 
