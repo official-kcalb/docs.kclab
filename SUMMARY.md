@@ -20,7 +20,7 @@
   * [🔗 🔜︱LinkStock](https://linkstock.pro)
   * [🔗 🔜︱InoShop](https://inoshop.org)
 * [NFT & Ds-NFT Collections](our-featured/markdown/README.md)
-  * [🔗 ✅︱Kcanther](https://ds-nft.org)
+  * [🔗 ✅︱Kcanther](https://kcanther.org)
   * [🔗 🔜︱InoAI Ds-NFT](https://inoai.ds-nft.org)
 * [Crypto Digital Currencies](our-featured/images-and-media/README.md)
   * [🔗 ✅︱Kcalbcoin](https://kcalbcoin.org)
