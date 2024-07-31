@@ -6,7 +6,7 @@
 
 "Site" refers to the website kcalb.org, including all its subdomains and any associated applications or services provided by **KCALB LTD**.
 
-"Services" encompass all the offerings provided by **KCALB LTD**, including but not limited to our blockchain technology INOAI, our cryptocurrency [KCALBCOIN](https://kcalbcoin.org/), our collection of NFTs [KCANTHER](https://kcanther.org/), and any related features, content, and functionality available through the Site.
+"Services" encompass all the offerings provided by **KCALB LTD**, including but not limited to our blockchain technology [INOAI](https://inoai.org), our cryptocurrency [KCALBCOIN](https://kcalbcoin.org/), our collection of NFTs [KCANTHER](https://kcanther.org/), and any related features, content, and functionality available through the Site.
 
 "**INOAI**" refers to our proprietary blockchain technology developed and maintained by **KCALB LTD**. This blockchain underpins our ecosystem, providing the infrastructure for transactions and smart contracts.
 
