@@ -1,6 +1,8 @@
 # ➡️ 📜︱Terms & Conditions
 
-[KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246), a company incorporated under the Companies Act 2006 as a private company limited by shares. Our company is registered in England and Wales with the company number 14132246, and our registered office is located in London, United Kingdom.
+## [KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246), a company incorporated under the Companies Act 2006 as a private company limited by shares. Our company is registered in England and Wales with the company number 14132246, and our registered office is located in London, United Kingdom.
+
+## General
 
 These Terms and Conditions govern your use of our websites and services, including but not limited to our company [KCALB](https://kcalb.org/), our cryptocurrency [KCALBCOIN](https://kcalbcoin.org/), and our collection of NFTs [KCANTHER](https://kcanther.org/). Please note that we have a lot more in store for you with:  [INOAI](https://inoai.org) (coming soon), [INOAI DS-NFT](https://inoai.ds-nft.org/) (coming soon), [INOSWAP](https://inoswap.org/#/swap) (coming soon), [INOPLAY](https://inoplay.org) (coming soon), [INOSHOP](https://inoshop.org) (coming soon), [INOGIVE](https://inogive.org)[S](https://inogives.org/) (coming soon), [LINKCOTS](https://linkcots.org) (coming soon), [LINKSTOCK](https://linkstock.pro/) (coming soon), [LINKOMARKET](https://linkomarket.live/) (coming soon), [DS-NFT](https://ds-nft.org/) (coming soon) !!
 
@@ -21,3 +23,22 @@ If any provision of these Terms and Conditions is found to be unlawful, void, or
 These Terms and Conditions and any policies or operating rules posted by us on this site or in respect to the service constitute the entire agreement and understanding between you and us and govern your use of the service, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms and Conditions).
 
 Any ambiguities in the interpretation of these Terms and Conditions shall not be construed against the drafting party.
+
+
+
+## Amendments to Terms and Conditions
+
+We reserve the right to amend these Terms and Conditions at any time. This includes the right to add, remove, or modify any terms, policies, or guidelines that apply to the use of our Sites and Services. These amendments are necessary to ensure that our Terms and Conditions remain relevant and up-to-date with changes in our operations, legal requirements, and user needs.
+
+Any changes to these Terms and Conditions will be effective immediately upon posting on our websites, unless otherwise specified. We may also notify users of changes through other communication methods, such as email notifications or in-site messages. This ensures that users are aware of the modifications and can review them promptly.
+
+It is the responsibility of users to review the Terms and Conditions regularly to stay informed about any updates or changes. Continued use of the Sites and Services following the posting of changes constitutes acceptance of those changes. If a user does not agree with the amended Terms and Conditions, they must cease using the Sites and Services immediately. We encourage users to review these terms periodically to ensure they are aware of any modifications that may affect their use of our services.
+
+We recommend that users bookmark this page and check it periodically to ensure they are aware of any changes. Users can also subscribe to our newsletter or updates to receive notifications about important changes. Staying informed about our Terms and Conditions helps users understand their rights and obligations when using our Sites and Services.
+
+Amendments to these Terms and Conditions will not apply retroactively. The version of the Terms and Conditions that was in effect at the time of a user’s transaction or interaction will govern that transaction or interaction. This means that users can rely on the terms that were applicable at the time they engaged with our services.
+
+If any part of these Terms and Conditions is found to be invalid or unenforceable, the remaining provisions will continue to be valid and enforceable. This ensures that the overall integrity and enforceability of our Terms and Conditions are maintained, even if a specific provision is invalidated.
+
+We are committed to transparency and clarity in our communications with users. If you have any questions or concerns about amendments to these Terms and Conditions, or if you need further clarification on any point, please do not hesitate to contact us at support@kcal.org. Our goal is to ensure that all users understand and are comfortable with the terms governing their use of our Sites and Services.
+
