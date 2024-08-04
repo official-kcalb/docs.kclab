@@ -18,6 +18,8 @@ We reserve the right to refuse service to anyone for any reason at any time. We 
 
 The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms and Conditions.
 
+To access and use the full range of functionalities offered on our websites, including but not limited to trading, purchasing, and staking, users must complete a [Know Your Customer](https://app.gitbook.com/o/Pl1Lz4UqibGI6zLrTNcM/s/fG4VFyHefdXzfKYToJJb/\~/changes/42/terms-and-conditions/legal-policies/kyc-verification) (KYC) verification process. Failure to complete the KYC process may result in limited access to certain features.
+
 If any provision of these Terms and Conditions is found to be unlawful, void, or unenforceable, that provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms and Conditions. Such determination shall not affect the validity and enforceability of any other remaining provisions.
 
 These Terms and Conditions and any policies or operating rules posted by us on this site or in respect to the service constitute the entire agreement and understanding between you and us and govern your use of the service, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms and Conditions).

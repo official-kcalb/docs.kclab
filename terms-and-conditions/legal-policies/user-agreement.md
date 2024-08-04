@@ -18,12 +18,14 @@
 
 "Account" refers to the user account created on kcalb.org to access our services. This account is associated with the user's linked blockchain address and is used to manage interactions with our platform.
 
+**"**KYC**"** stands for [Know Your Customer ](https://app.gitbook.com/o/Pl1Lz4UqibGI6zLrTNcM/s/fG4VFyHefdXzfKYToJJb/\~/changes/42/terms-and-conditions/legal-policies/kyc-verification)(KYC). A verification process to access the full range of functionalities on our website. This process involves providing valid identification documents and other necessary information as required by KCALB LTD. Until the KYC process is successfully completed, users will have limited access to certain features and services.
+
 "Wallet" is a digital tool that allows users to store, send, and receive cryptocurrencies and NFTs. Users must use third-party wallets to interact with the **INOAI** blockchain. **KCALB LTD** does not operate or maintain these wallets.
 
 "Third-Party Services" refer to services provided by entities other than **KCALB LTD** that may be integrated with or accessible through our Sites. These can include wallet providers, exchanges, and other external platforms.
 
 "Content" refers to all text, graphics, images, music, software, audio, video, information, or other materials available on the Sites or through the Services. Content can be user-generated or provided by **KCALB LTD**.
 
-"Terms and Conditions" refer to this agreement, which governs the relationship between users and **KCALB LTD** regarding the use of the Sites and Services. It outlines the rights, responsibilities, and obligations of both parties.
+"[Terms and Conditions](terms-and-conditions.md)" refer to this agreement, which governs the relationship between users and **KCALB LTD** regarding the use of the Sites and Services. It outlines the rights, responsibilities, and obligations of both parties.
 
 "Applicable Laws" include all relevant laws, statutes, regulations, and guidelines that apply to the use of our Sites and Services, including but not limited to those related to data protection, intellectual property, and financial transactions.
