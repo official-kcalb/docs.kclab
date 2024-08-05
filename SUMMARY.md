@@ -3,7 +3,7 @@
 ## 💎 ABOUT US
 
 * [Introduction](README.md)
-* [Us Story](about-us/us-story.md)
+* [Our Story](about-us/our-story.md)
 * [Goal](getting-started/quickstart.md)
 * [Behind the Scenes](getting-started/page-expl.md)
 * [Official WebSite](about-us/official-website/README.md)
