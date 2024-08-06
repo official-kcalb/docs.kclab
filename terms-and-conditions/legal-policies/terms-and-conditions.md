@@ -6,24 +6,24 @@
 
 These **Terms and Conditions govern** your use of our websites and services, including but not limited to:
 
-* **Our company:**  🔗 [**KCALB**](https://kcalb.org/)**.org**
+* **Our company:**  🔗 [**kcalb**](https://kcalb.org/)**.org**
 * **Our community:**               🔗 [**kcalb**](https://kcalb.community/)**.community**
-* **Our cryptocurrency:**  🔗 [**KCALBCOIN**](https://kcalbcoin.org/)**.org**
-* **Our collection of NFTs:**   🔗 [**KCANTHER**](https://kcanther.org/)**.org**
+* **Our cryptocurrency:**  🔗 [**kcalbcoin**](https://kcalbcoin.org/)**.org**
+* **Our collection of NFTs:**   🔗 [**kcanther**](https://kcanther.org/)**.org**
 
 ### FEATURED UPCOMING OFFERINGS
 
-* 🔗 [**Ds-NFT**](https://ds-nft.org/)**.org**
-* 🔗 [**INOAI**](https://inoai.org/)**.org**
-* 🔗 [**INOAI**](https://inoai.live)**.live**
-* 🔗 [**INOAI-DS-NFT**](https://inoai-ds-nft.org/)**.org**
-* 🔗 [**INOSWAP**](https://inoswap.org/)**.org**
-* 🔗 [**INOPLAY**](https://inoplay.org/)**.org**
-* 🔗 [**INOSHOP**](https://inoshop.org/)**.org**
-* 🔗 [**INOGIVES**](https://inogives.org/)**.org**
-* 🔗 [**LINKCOTS**](https://linkcots.org/)**.org**
-* 🔗 [**LINKSTOCK**](https://linkstock.pro)**.pro**
-* 🔗 [**LINKOMARKET**](https://linkomarket.live)**.live**
+* 🔗 [**ds-nft**](https://ds-nft.org/)**.org**
+* 🔗 [**inoai**](https://inoai.org/)**.org**
+* 🔗 [**inoai**](https://inoai.live)**.live**
+* 🔗 [**inoai-ds-nft**](https://inoai-ds-nft.org/)**.org**
+* 🔗 [**inoswap**](https://inoswap.org/)**.org**
+* 🔗 [**inoplay**](https://inoplay.org/)**.org**
+* 🔗 [**inoshop**](https://inoshop.org/)**.org**
+* 🔗 [**inogives**](https://inogives.org/)**.org**
+* 🔗 [**linkcots**](https://linkcots.org/)**.org**
+* 🔗 [**linkstock**](https://linkstock.pro)**.pro**
+* 🔗 [**linkomarket**](https://linkomarket.live)**.live**
 
 
 
