@@ -14,7 +14,7 @@
 ## 🖥️ OUR FEATURED
 
 * [WEB 3.O](our-featured/editor/README.md)
-  * [🔗 🔜︱InoGives](https://inogive.org)
+  * [🔗 🔜︱InoGives](https://inogives.org/)
   * [🔗 🔜︱Ds-NFT](https://ds-nft.org)
   * [🔗 🔜︱LinkoMarket](https://linkomarket.live)
   * [🔗 🔜︱LinkStock](https://linkstock.pro)
