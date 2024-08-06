@@ -4,7 +4,28 @@
 
 ## General
 
-These Terms and Conditions govern your use of our websites and services, including but not limited to our company [KCALB](https://kcalb.org/), our cryptocurrency [KCALBCOIN](https://kcalbcoin.org/), and our collection of NFTs [KCANTHER](https://kcanther.org/). Please note that we have a lot more in store for you with:  [INOAI](https://inoai.org) (coming soon), [INOAI DS-NFT](https://inoai.ds-nft.org/) (coming soon), [INOSWAP](https://inoswap.org/#/swap) (coming soon), [INOPLAY](https://inoplay.org) (coming soon), [INOSHOP](https://inoshop.org) (coming soon), [INOGIVE](https://inogive.org)[S](https://inogives.org/) (coming soon), [LINKCOTS](https://linkcots.org) (coming soon), [LINKSTOCK](https://linkstock.pro/) (coming soon), [LINKOMARKET](https://linkomarket.live/) (coming soon), [DS-NFT](https://ds-nft.org/) (coming soon) !!
+These **Terms and Conditions govern** your use of our websites and services, including but not limited to:
+
+* **Our company:**  🔗 [**KCALB**](https://kcalb.org/)**.org**
+* **Our community:**               🔗 [**kcalb**](https://kcalb.community/)**.community**
+* **Our cryptocurrency:**  🔗 [**KCALBCOIN**](https://kcalbcoin.org/)**.org**
+* **Our collection of NFTs:**   🔗 [**KCANTHER**](https://kcanther.org/)**.org**
+
+### FEATURED UPCOMING OFFERINGS
+
+* 🔗 [**Ds-NFT**](https://ds-nft.org/)**.org**
+* 🔗 [**INOAI**](https://inoai.org/)**.org**
+* 🔗 [**INOAI**](https://inoai.live)**.live**
+* 🔗 [**INOAI-DS-NFT**](https://inoai-ds-nft.org/)**.org**
+* 🔗 [**INOSWAP**](https://inoswap.org/)**.org**
+* 🔗 [**INOPLAY**](https://inoplay.org/)**.org**
+* 🔗 [**INOSHOP**](https://inoshop.org/)**.org**
+* 🔗 [**INOGIVES**](https://inogives.org/)**.org**
+* 🔗 [**LINKCOTS**](https://linkcots.org/)**.org**
+* 🔗 [**LINKSTOCK**](https://linkstock.pro)**.pro**
+* 🔗 [**LINKOMARKET**](https://linkomarket.live)**.live**
+
+
 
 By accessing or using our websites and services, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these Terms and Conditions, you must not use our websites or services.
 
