@@ -18,6 +18,7 @@ These **Terms and Conditions govern** your use of our websites and services, inc
 * 🔗 [**inoai**](https://inoai.live)**.live**
 * 🔗 [**inoai.ds-nft**](https://inoai.ds-nft.org/)**.org**
 * 🔗 [**inoswap**](https://inoswap.org/)**.org**
+* **🔗** [**inobridge**](http://inobridge.org/)**.org**
 * 🔗 [**inoplay**](https://inoplay.org/)**.org**
 * 🔗 [**inoshop**](https://inoshop.org/)**.org**
 * 🔗 [**inogives**](https://inogives.org/)**.org**

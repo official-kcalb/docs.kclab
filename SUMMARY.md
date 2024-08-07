@@ -29,6 +29,7 @@
 * [DeFi](our-featured/interactive-blocks/README.md)
   * [🔗 🔜︱Inoswap](https://inoswap.org)
   * [🔗  🔜︱InoPlay](https://inoplay.org)
+  * [🔗  🔜︱InoBridge](https://inobridge.org)
 
 ## ✅ Extra
 
