@@ -21,11 +21,11 @@ layout:
 
 Registered in **London** in the United Kingdom under company number [<mark style="color:purple;">**14132246**</mark>](https://find-and-update.company-information.service.gov.uk/company/14132246) since 2022.&#x20;
 
-[<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is dedicated to developing an **innovative** blockchain ecosystem. With a team passionate about the metaverse, the company focuses on creating advanced and accessible technological solutions.&#x20;
+[<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is dedicated to developing an **innovative** blockchain ecosystem. With a team passionate about the metaverse, the company creates advanced and accessible technological solutions.&#x20;
 
-By promoting innovation and valuing transparency, [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) transforms ambitious ideas into concrete **projects**, redefining industry standards.&#x20;
+Focusing on innovation and valuing transparency, [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) turns ambitious ideas into real **projects**, redefining industry standards.
 
-Explore a world where cutting-edge technology and integrity come together to open new **horizons**.
+Explore a world where advanced technology and **integrity** merge to reveal new horizons.
 
 ### Jump right in
 
