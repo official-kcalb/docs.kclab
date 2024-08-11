@@ -56,8 +56,8 @@
 
 ## ‼️ PLATFORMS AGREEMENTS
 
-* [Legal Policies](platforms-agreements/legal-policies/README.md)
-  * [➡️ 📜︱Terms & Conditions](platforms-agreements/legal-policies/terms-and-conditions.md)
+* [Legal Policies](<terms-and-conditions/legal-policies/README (1).md>)
+  * [➡️ 📜︱Terms & Conditions](terms-and-conditions/legal-policies/terms-and-conditions.md)
   * [➡️ ⚖️︱Disclaimer](platforms-agreements/legal-policies/disclaimer.md)
   * [➡️ ✍️︱User Agreement](platforms-agreements/legal-policies/user-agreement.md)
   * [➡️ 🔒︱Acceptable Use](platforms-agreements/legal-policies/acceptable-use.md)

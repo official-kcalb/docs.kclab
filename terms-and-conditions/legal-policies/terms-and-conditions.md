@@ -66,3 +66,5 @@ If any part of these Terms and Conditions is found to be invalid or unenforceabl
 
 We are committed to transparency and clarity in our communications with users. If you have any questions or concerns about amendments to these Terms and Conditions, or if you need further clarification on any point, please do not hesitate to contact us at support@kcal.org. Our goal is to ensure that all users understand and are comfortable with the terms governing their use of our Sites and Services.
 
+
+

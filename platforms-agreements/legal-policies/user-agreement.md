@@ -26,6 +26,6 @@
 
 "Content" refers to all text, graphics, images, music, software, audio, video, information, or other materials available on the Sites or through the Services. Content can be user-generated or provided by **KCALB LTD**.
 
-"[Terms and Conditions](terms-and-conditions.md)" refer to this agreement, which governs the relationship between users and **KCALB LTD** regarding the use of the Sites and Services. It outlines the rights, responsibilities, and obligations of both parties.
+"[Terms and Conditions](../../terms-and-conditions/legal-policies/terms-and-conditions.md)" refer to this agreement, which governs the relationship between users and **KCALB LTD** regarding the use of the Sites and Services. It outlines the rights, responsibilities, and obligations of both parties.
 
 "Applicable Laws" include all relevant laws, statutes, regulations, and guidelines that apply to the use of our Sites and Services, including but not limited to those related to data protection, intellectual property, and financial transactions.
