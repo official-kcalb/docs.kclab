@@ -1,10 +1,32 @@
 # ➡️ ✍️︱User Agreement
 
-"We," "us," and "our" refer to [KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246), the company operating the websites [kcalb.org](https://kcalb.org/), [kcalbcoin.org](https://kcalbcoin.org/), [kcanther.org](https://kcanther.org/), [inoai.org](https://inoai.org) (coming soon), [inoai.ds-nft.org](https://inoai.ds-nft.org/) (coming soon), [inoswap.org](https://inoswap.org/) (coming soon), [inoplay.org](https://inoplay.org/) (coming soon), [inoshop.org](https://inoshop.org/) (coming soon), [inogives.org](https://inogives.org/) (coming soon), [linkcots.org](https://linkcots.org/) (coming soon), [linkstock.org](https://linkstock.pro/) (coming soon), [linkomarket.](https://linkomarket.live/)[live](https://linkomarket.live/) (coming soon), [ds-nft.org](https://ds-nft.org/) (coming soon)and providing the associated services.
+"We," "us," and "our" refer to [KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246), the company operating the websites
+
+* **Our company:**  🔗 [**kcalb**](https://kcalb.org/)[**.org**](https://kcalb.org/)
+* **Our community:**               🔗 [**kcalb**](https://kcalb.community/)[**.community**](https://kcalb.community/)
+* **Our cryptocurrency:**  🔗 [**kcalbcoin**](https://kcalbcoin.org/)[**.org**](https://kcalbcoin.org/)
+* **Our collection of NFTs:**   🔗 [**kcanther**](https://kcanther.org/)[**.org**](https://kcanther.org/)
+
+And this upcoming features
+
+* 🔗 [**linkomarket**](https://linkomarket.live)[**.live** ](https://linkomarket.live/)
+* 🔗 [**linkstock**](https://linkstock.pro)[**.pro**](https://linkstock.pro/)
+* 🔗 [**linkcots**](https://linkcots.org/)[**.org**](https://linkcots.org/)
+* 🔗[ **inogives.org**](https://inogives.org/)
+* 🔗 [**inoshop**](https://inoshop.org/)[**.org**](https://inoshop.org/)
+* 🔗 [**inoplay**](https://inoplay.org/)[**.org**](https://inoplay.org/)
+* **🔗** [**inobridge**](http://inobridge.org/)[**.org**](https://inobridge.org/)
+* 🔗 [**inoswap**](https://inoswap.org/)[**.org**](https://inoswap.org/)
+* 🔗 [**inoai.ds-nft**](https://inoai.ds-nft.org/)[**.org**](https://inoai.ds-nft.org/)
+* 🔗 [**inoai**](https://inoai.live)[**.live**](https://inoai.live/)
+* 🔗 [**inoai**](https://inoai.org/)[**.org**](https://inoai.org/)
+* 🔗 [**ds-nft**](https://ds-nft.org/)[**.org**](https://ds-nft.org/)
+
+&#x20;and providing the associated services.
 
 "User" refers to any individual or entity that accesses or uses our websites or services. This includes but is not limited to visitors, customers, vendors, and contributors of content.
 
-"Sites" refers to the websites [kcalb.org](https://kcalb.org/), [kcalbcoin.org](https://kcalbcoin.org/), [kcanther.org](https://kcanther.org/), [inoai.org](https://inoai.org), [inoai.ds-nft.org](https://inoai.ds-nft.org/), [inoswap.org](https://inoswap.org/), [inoplay.org](https://inoplay.org/), [inoshop.org](https://inoshop.org/), [inogives.org](https://inogives.org/), [linkcots.org](https://linkcots.org/), [linkstock.org](https://linkstock.pro/), [linkomarket.](https://linkomarket.live/)[live](https://linkomarket.live/), [ds-nft.org](https://ds-nft.org/), including all its subdomains and any associated applications or services provided by **KCALB LTD**.
+"Sites" refers to the websites [kcalb.org](https://kcalb.org/), [kcalb.community](https://kcalb.community/), [kcalbcoin.org](https://kcalbcoin.org/), [kcanther.org](https://kcanther.org/), [inoai.org](https://inoai.org), [inoai.live](https://inoai.live/), [inoai.ds-nft.org](https://inoai.ds-nft.org/), [inoswap.org](https://inoswap.org/), [inoplay.org](https://inoplay.org/),[ inobridge.org](https://inobridge.org/), [inoshop.org](https://inoshop.org/), [inogives.org](https://inogives.org/), [linkcots.org](https://linkcots.org/), [linkstock.](https://linkstock.pro/)[pro](https://linkstock.pro/), [linkomarket.](https://linkomarket.live/)[live](https://linkomarket.live/), [ds-nft.org](https://ds-nft.org/), including all its subdomains and any associated applications or services provided by **KCALB LTD**.
 
 "Services" encompass all the offerings provided by **KCALB LTD**, including but not limited to our blockchain technology [INOAI](https://inoai.org), our cryptocurrency [KCALBCOIN](https://kcalbcoin.org/), our collection of NFTs [KCANTHER](https://kcanther.org/), and more to come; and any related features, content, and functionality available through the Sites.
 
