@@ -6,25 +6,29 @@
 
 These **Terms and Conditions govern** your use of our websites and services, including but not limited to:
 
-* **Our company:**  🔗 [**kcalb**](https://kcalb.org/)**.org**
-* **Our community:**               🔗 [**kcalb**](https://kcalb.community/)**.community**
-* **Our cryptocurrency:**  🔗 [**kcalbcoin**](https://kcalbcoin.org/)**.org**
-* **Our collection of NFTs:**   🔗 [**kcanther**](https://kcanther.org/)**.org**
+* **Our company:**  🔗 [**kcalb**](https://kcalb.org/)[**.org**](https://kcalb.org/)
+* **Our community:**               🔗 [**kcalb**](https://kcalb.community/)[**.community**](https://kcalb.community/)
+* **Our cryptocurrency:**  🔗 [**kcalbcoin**](https://kcalbcoin.org/)[**.org**](https://kcalbcoin.org/)
+* **Our collection of NFTs:**   🔗 [**kcanther**](https://kcanther.org/)[**.org**](https://kcanther.org/)
 
-### FEATURED UPCOMING OFFERINGS
 
-* 🔗 [**ds-nft**](https://ds-nft.org/)**.org**
-* 🔗 [**inoai**](https://inoai.org/)**.org**
-* 🔗 [**inoai**](https://inoai.live)**.live**
-* 🔗 [**inoai.ds-nft**](https://inoai.ds-nft.org/)**.org**
-* 🔗 [**inoswap**](https://inoswap.org/)**.org**
-* **🔗** [**inobridge**](http://inobridge.org/)**.org**
-* 🔗 [**inoplay**](https://inoplay.org/)**.org**
-* 🔗 [**inoshop**](https://inoshop.org/)**.org**
-* 🔗 [**inogives**](https://inogives.org/)**.org**
-* 🔗 [**linkcots**](https://linkcots.org/)**.org**
-* 🔗 [**linkstock**](https://linkstock.pro)**.pro**
-* 🔗 [**linkomarket**](https://linkomarket.live)**.live**
+
+### UPCOMING FEATURES
+
+* 🔗 [**linkomarket**](https://linkomarket.live)[**.live** ](https://linkomarket.live/)
+* 🔗 [**linkstock**](https://linkstock.pro)[**.pro**](https://linkstock.pro/)
+* 🔗 [**linkcots**](https://linkcots.org/)[**.org**](https://linkcots.org/)
+* 🔗[ **inogives.org**](https://inogives.org/)
+* 🔗 [**inoshop**](https://inoshop.org/)[**.org**](https://inoshop.org/)
+* 🔗 [**inoplay**](https://inoplay.org/)[**.org**](https://inoplay.org/)
+* **🔗** [**inobridge**](http://inobridge.org/)[**.org**](https://inobridge.org/)
+* 🔗 [**inoswap**](https://inoswap.org/)[**.org**](https://inoswap.org/)
+* 🔗 [**inoai.ds-nft**](https://inoai.ds-nft.org/)[**.org**](https://inoai.ds-nft.org/)
+* 🔗 [**inoai**](https://inoai.live)[**.live**](https://inoai.live/)
+* 🔗 [**inoai**](https://inoai.org/)[**.org**](https://inoai.org/)
+* 🔗 [**ds-nft**](https://ds-nft.org/)[**.org**](https://ds-nft.org/)
+
+
 
 
 
