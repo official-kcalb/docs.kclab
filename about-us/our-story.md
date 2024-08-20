@@ -19,10 +19,11 @@ layout:
 
 # Our Story
 
-[Kcalb Ltd](https://kcalb.org/) initiative was driven by a desire to address the growing challenges of **trust and security** in the cryptocurrency space.&#x20;
+[Kcalb Ltd](https://kcalb.org/) mission was born from the observation that the cryptocurrency space was not being fully utilised by diverse individuals and entrepreneurs due to challenge of accessibility and therefore trust.
 
-With this mission in mind, the creation of a platform began, not only to support diverse entrepreneurs and their initiatives but also to leverage the powerful **synergy** between **technology and creativity.**
+With this in mind, the creation of an ecosystem began, to support members of the community and their initiatives but also to leverage the powerful **synergy** between **technology** and **creativity**.
 
-By prioritising **safety and transparency**, the goal is to build a trusted environment that empowers everyone to reach their fullest potential.
+By prioritising accessibility and **transparency,** the goal is to build a **user-friendly** and trusted environment that empowers everyone to reach their **fullest potential**.
 
-With founders based on different continents, it brings an **international perspective** to the needs for support, security, and the opportunities for synergies.
+With founders based on different continents, the initiative benefits from a **global perspective** to the needs for support, collaboration and communication.
+
