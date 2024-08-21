@@ -1,28 +1,19 @@
+---
+description: Kcalbiens founding team
+---
+
 # Behind the Scenes
 
-## Kcalb Documentation
+## <mark style="color:blue;">THOMAS</mark>
 
-Welcome to the [**Kcalb Documentation**](https://kcalb.org). This space was created to provide comprehensive information about our projects. Here, you will find up-to-date details on Kcalb's past, present, and future activities, offering a deep understanding of our initiatives and vision.
+<mark style="color:blue;">Thomas, once a skilled pastry chef, now channels his expertise into the world of coding. Transforming traditional recipes into digital masterpieces, he replaces ingredients with intricate lines of code, infusing each creation with innovation. With a keen eye for detail and a knack for problem-solving, Thomas continuously refines his craft, blending algorithms with flavors to produce stunning creations.</mark>
 
-### Purpose of This Documentation
+## <mark style="color:green;">YANN</mark>
 
-Transparency and accessibility are central to our mission at Kcalb. We firmly believe that well-structured documentation is essential for fostering collaboration and innovation. This documentation is designed to be interactive and easy to navigate, allowing all users, whether novices or experts, to find the information they need.
+<mark style="color:green;">Introducing our paperwork virtuoso, an entrepreneur with a rich background in restaurant management and transportation, eager for a fresh start. With a fervent passion for the metaverse, this individual is committed to pioneering transformative ventures that empower aspiring entrepreneurs. Alongside a dedicated team, this creative force is driving forward a project poised to redefine the landscape of innovation.</mark>
 
-### Contents of the Documentation
+## <mark style="color:orange;">PAULINE</mark>
 
-#### Activity History
+<mark style="color:orange;">Meet Pauline, our socially adept digital project manager with a background in luxury hospitality sales and marketing. She skilfully manages our marketing and communication efforts, ensuring clarity and coherence in all our projects for a seamless experience. Beyond work, Pauline is a social butterfly, often found networking at events or indulging in outdoor pursuits like hiking and wake surfing. Whether it's refining your brand strategy or crafting engaging content, Pauline is here to bring your ideas to life!</mark>
 
-* A detailed timeline of all initiatives and projects undertaken by Kcalb.
-
-#### Current Projects
-
-* In-depth descriptions of ongoing projects.
-* Regular updates on progress and key milestones.
-
-#### Future Vision
-
-* Plans and strategies for Kcalb's future developments.
-* Collaboration opportunities and areas of research interest.
-* Projections on long-term goals and expected impacts.
-
-In summary, this documentation is your central hub for everything related to Kcalb. It is regularly updated to reflect the latest information and developments. Thank you for your interest in our project and for following our exciting progress!
+###
