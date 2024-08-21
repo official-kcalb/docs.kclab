@@ -1,4 +1,11 @@
+---
+cover: ../.gitbook/assets/Kcalb Site 1.jpg
+coverY: 0
+---
+
 # Goal
+
+<figure><img src="../.gitbook/assets/5 Kcalb Ltd - Icon - Top - Black - Rectangle copie.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## I.N.O. = INNOVATE -> NETWORK -> OUTSHINE
 
@@ -18,9 +25,31 @@ By being inclusive and well-connected, the Kcalb community will grow stronger an
 
 * ## OUTSHINE
 
-xxx
 
 
+
+
+_<mark style="color:blue;">Key words :</mark>_&#x20;
+
+* _<mark style="color:blue;">diversification</mark>_
+* _<mark style="color:blue;">communication</mark>_
+* _<mark style="color:blue;">facilitator</mark>_
+* _<mark style="color:blue;">blockchain cost</mark>_
+* _<mark style="color:blue;">provide additional tool to shine</mark>_
+* _<mark style="color:blue;">Organic growth (hum...)</mark>_
+* _<mark style="color:blue;">dynamic landscape</mark>_
+* _<mark style="color:blue;">versatile ecosystem/platform</mark>_
+* _<mark style="color:blue;">leverage benefit of tech</mark>_
+
+
+
+
+
+
+
+
+
+<figure><img src="../.gitbook/assets/Color logo with background.png" alt="" width="375"><figcaption></figcaption></figure>
 
 \
 
@@ -50,13 +79,3 @@ This dynamic **ecosystem** emphasizes transparency and trust, clearly revealing 
 With an educational platform and cutting-edge solutions, everyone can fully leverage the benefits of this advanced technology.&#x20;
 
 Focusing on **innovation** and value **creation**, [**Kcalb** ](https://kcalb.org/)positions itself as a key player in the **blockchain** field, offering a professional and compelling approach to explore and exploit the vast possibilities offered by this **revolutionary technology.**
-
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Kcalb Site 1.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
