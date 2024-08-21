@@ -19,7 +19,7 @@ layout:
 
 # Our Story
 
-[Kcalb Ltd](https://kcalb.org/) mission was born from the observation that the cryptocurrency space was not being fully utilised by diverse individuals and entrepreneurs due to challenge of accessibility and therefore trust.
+[Kcalb Ltd](https://kcalb.org/)'s mission was born from the observation that there was an opportunity to make cryptocurrency more accessible and trusted for diverse **individuals and entrepreneurs.**
 
 With this in mind, the creation of an ecosystem began, to support members of the community and their initiatives but also to leverage the powerful <mark style="color:blue;">**synergy**</mark> between **technology** and **creativity**.
 
