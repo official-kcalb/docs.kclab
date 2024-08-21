@@ -1,20 +1,49 @@
----
-description: >-
-  Developing an evolving ecosystem, the company provides practical tools,
-  transparency, and advanced solutions for those who find them useful.
----
-
 # Goal
 
-<figure><img src="../.gitbook/assets/Color logo with background.png" alt="" width="375"><figcaption></figcaption></figure>
+## I.N.O. = INNOVATE -> NETWORK -> OUTSHINE
 
-[**Kcalb** ](https://kcalb.org/)aims to become a leader in developing an innovative blockchain ecosystem.&#x20;
+Kcalb drives **innovation** to expand your **network** and help you **outshine.**
 
-{% hint style="info" %}
-By providing efficient and accessible tools, the goal is to offer simple and effective **solutions**.&#x20;
-{% endhint %}
+* ## INNOVATE
 
-## INNOVATE - NETWORK - OUTSHINE
+Based on our first observation, we are building a **pillar ecosystem** in the crypto space.
+
+**Global, multifunctional** and **inclusive**, Kcalb aims to increase the number of active individuals and entrepreneurs users of the decentralised sphere. By providing easy-to-use tools, newcomers will be empowered to drive innovation themselves.
+
+* ## NETWORK
+
+More than innovator, Kcalb serves as a <mark style="color:red;">**connector or link?**</mark> among its users and members by offering tools and support to enhance their network and visibility.&#x20;
+
+By being inclusive and well-connected, the Kcalb community will grow stronger and more cohesive.
+
+* ## OUTSHINE
+
+xxx
+
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This dynamic **ecosystem** emphasizes transparency and trust, clearly revealing the real identity behind each **project**.
 
