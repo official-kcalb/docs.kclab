@@ -19,7 +19,7 @@ layout:
 
 # Introduction
 
-Welcome to Kcalb Ltd !&#x20;
+Get ready to rock with Kcalb Ltd - the adventure starts now !
 
 A whole new world is opening to you. Are you ready?!
 
