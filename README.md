@@ -19,9 +19,13 @@ layout:
 
 # Introduction
 
-With a team passionate about the metaverse, [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is committed to building an **innovative** blockchain ecosystem with advanced and **user-friendly** digital solutions.&#x20;
+Welcome to Kcalb Ltd !&#x20;
 
-[<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) focuses on innovation and accessibility to turn ideas into **real projects**, redefining industry standards.
+A whole new world is opening to you. Are you ready?!
+
+[<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is a team of metaverse aficionados who are building an innovative blockchain ecosystem with advanced and user-friendly digital solutions like you never seen before.
+
+Are you an individual or entrepreneur with bold ideas? [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) supports you in turning them into reality, pushing boundaries and setting new standards in innovation and accessibility.
 
 Explore a world where advanced technology and transparency merge to reveal new horizons ✨
 
