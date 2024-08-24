@@ -19,17 +19,13 @@ These **Terms and Conditions govern** your use of our websites and services, inc
 * 🔗 [**inoai**](https://inoai.org/)[**.org**](https://inoai.org/)
 * 🔗 [**inoswap**](https://inoswap.org/)[**.org**](https://inoswap.org/)
 * 🔗 [**inobridge.org**](https://inobridge.org)
+* 🔗 [**ds-nft**](https://ds-nft.org/)[**.org**](https://ds-nft.org/)
 * 🔗[ **inogives.org**](https://inogives.org/)
 * 🔗 [**inoplace.org**](https://inoplace.org)
 * 🔗 [**inostocks.org**](https://inoplace.org)
 * 🔗 [**linkcots**](https://linkcots.org/)[**.org**](https://linkcots.org/)
 * 🔗 [**inoshop**](https://inoshop.org/)[**.org**](https://inoshop.org/)
 * 🔗 [**inoplay**](https://inoplay.org/)[**.org**](https://inoplay.org/)
-* 🔗 [**ds-nft**](https://ds-nft.org/)[**.org**](https://ds-nft.org/)
-
-
-
-
 
 By accessing or using our websites and services, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these Terms and Conditions, you must not use our websites or services.
 
