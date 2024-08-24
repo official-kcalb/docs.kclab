@@ -15,17 +15,16 @@ These **Terms and Conditions govern** your use of our websites and services, inc
 
 ### UPCOMING FEATURES
 
-* 🔗 [**linkomarket**](https://linkomarket.live)[**.live** ](https://linkomarket.live/)
-* 🔗 [**linkstock**](https://linkstock.pro)[**.pro**](https://linkstock.pro/)
-* 🔗 [**linkcots**](https://linkcots.org/)[**.org**](https://linkcots.org/)
-* 🔗[ **inogives.org**](https://inogives.org/)
-* 🔗 [**inoshop**](https://inoshop.org/)[**.org**](https://inoshop.org/)
-* 🔗 [**inoplay**](https://inoplay.org/)[**.org**](https://inoplay.org/)
-* **🔗** [**inobridge**](http://inobridge.org/)[**.org**](https://inobridge.org/)
-* 🔗 [**inoswap**](https://inoswap.org/)[**.org**](https://inoswap.org/)
-* 🔗 [**inoai.ds-nft**](https://inoai.ds-nft.org/)[**.org**](https://inoai.ds-nft.org/)
 * 🔗 [**inoai**](https://inoai.live)[**.live**](https://inoai.live/)
 * 🔗 [**inoai**](https://inoai.org/)[**.org**](https://inoai.org/)
+* 🔗 [**inoswap**](https://inoswap.org/)[**.org**](https://inoswap.org/)
+* 🔗 [**inobridge.org**](https://inobridge.org)
+* 🔗[ **inogives.org**](https://inogives.org/)
+* 🔗 [**inoplace.org**](https://inoplace.org)
+* 🔗 [**inostocks.org**](https://inoplace.org)
+* 🔗 [**linkcots**](https://linkcots.org/)[**.org**](https://linkcots.org/)
+* 🔗 [**inoshop**](https://inoshop.org/)[**.org**](https://inoshop.org/)
+* 🔗 [**inoplay**](https://inoplay.org/)[**.org**](https://inoplay.org/)
 * 🔗 [**ds-nft**](https://ds-nft.org/)[**.org**](https://ds-nft.org/)
 
 
