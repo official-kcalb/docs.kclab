@@ -33,6 +33,7 @@
 ## ✅ Extra
 
 * [Join Our Newsletter](extra/join-our-newsletter.md)
+* [Brand Assets Guideline](extra/brand-assets-guideline.md)
 * [Opportunities](extra/opportunities/README.md)
   * [🔗 💻︱Career](https://discord.com/channels/1264248890635587636/1265292370400772147)
   * [🔗  🤝︱Partnership](https://discord.com/channels/1264248890635587636/1265221108844724246)
