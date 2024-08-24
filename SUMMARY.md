@@ -77,10 +77,10 @@
 
 ## 📢 COMMUNITY CONNECT
 
-* [🔗 📌︱Facebook](https://www.facebook.com/official.kcalb/)
+* [🔗 📌︱Facebook](https://www.facebook.com/kcalb.org/)
 * [🔗 📌︱Discord](https://discord.gg/nPVBTYcR)
 * [🔗 📌︱GitHub](https://github.com/official-kcalb)
-* [🔗 📌︱Instagram](https://www.instagram.com/official\_kcalb/)
+* [🔗 📌︱Instagram](https://www.instagram.com/kcalb\_org/)
 * [🔗 📌︱Linkedin](https://www.linkedin.com/company/official-kcalb)
-* [🔗 📌︱Threads](https://www.threads.net/@official\_kcalb/)
-* [🔗 📌︱X](https://x.com/official\_kcalb)
+* [🔗 📌︱Threads](https://www.threads.net/@kcalb\_org/)
+* [🔗 📌︱X](https://x.com/kcalb\_org)
