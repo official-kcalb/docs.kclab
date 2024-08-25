@@ -45,14 +45,16 @@
   * [🔗 📖︱Kcalbcoin](https://docs.kcalbcoin.org)
   * [🔗 🔜︱Community](https://docs.kcalb.community/)
   * [🔗 🔜︱Investors](https://docs.kcalb-investors.org/)
-  * [🔗 🔜︱InoAi Info](https://docs.inoai.info)
-  * [🔗 🔜︱Inoswap](https://docs.inoswap.org/)
+  * [🔗 🔜︱InoAi](https://docs.inoai)
+  * [🔗 🔜︱InoSwap](https://docs.inoswap.org/)
+  * [🔗 🔜︱InoBridge](https://docs.inobridge.org/)
+  * [🔗 🔜︱DS-NFT](https://docs.ds-nft.org/)
   * [🔗 🔜︱InoGives](https://docs.inogives.org/)
-  * [🔗 🔜︱Inoshop](https://docs.inoshop.org/)
-  * [🔗 🔜︱Inoplay](https://docs.inoplay.org/)
-  * [🔗 🔜︱LinKcot$](https://docs.linkcots.org/)
-  * [🔗 🔜︱LinKstock Pro](https://docs.linkstock.pro/)
-  * [🔗 🔜︱LinkoMarket](https://docs.linkomarket.live/)
+  * [🔗 🔜︱InoShop](https://docs.inoshop.org/)
+  * [🔗 🔜︱InoPlay](https://docs.inoplay.org/)
+  * [🔗 🔜︱InoPlace](https://docs.inoplace.org)
+  * [🔗 🔜︱InoStocks](https://docs.inostocks.org)
+  * [🔗 🔜︱LinKcotS](https://docs.linkcots.org/)
 
 ## ‼️ PLATFORMS AGREEMENTS
 
