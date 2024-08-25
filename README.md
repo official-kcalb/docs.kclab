@@ -25,7 +25,7 @@ A whole new world is opening to you. Are you ready?!
 
 [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is a team of metaverse aficionados who are building an innovative blockchain ecosystem with advanced and user-friendly digital solutions like you never seen before.
 
-Are you an individual or entrepreneur with bold ideas? [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) supports you in turning them into reality, pushing boundaries and setting new standards in innovation and accessibility.
+Are you an individual or entrepreneur with bold ideas? [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) supports you in turning them into reality, pushing boundaries and setting new standards in innovation and metaverse accessibility.&#x20;
 
 Explore a world where advanced technology and transparency merge to reveal new horizons ✨
 
