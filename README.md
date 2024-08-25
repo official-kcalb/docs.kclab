@@ -1,4 +1,5 @@
 ---
+icon: circle-play
 cover: .gitbook/assets/Kcalb Site 1.jpg
 coverY: 0
 layout:
