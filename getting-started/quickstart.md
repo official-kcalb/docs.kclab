@@ -20,7 +20,7 @@ Based on our first observation, we are building a **pillar ecosystem** in the cr
 
 * ## NETWORK
 
-More than innovator, Kcalb serves as a <mark style="color:red;">**connector or link?**</mark> among its users and members by offering tools and support to enhance their network and visibility.&#x20;
+More than innovator, Kcalb serves as a link among its users and members by offering tools and support to enhance their network and visibility.&#x20;
 
 By being inclusive and well-connected, the Kcalb community will grow stronger and more cohesive.
 
