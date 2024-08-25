@@ -6,12 +6,10 @@
 
 These **Terms and Conditions govern** your use of our websites and services, including but not limited to:
 
-* **Our company:**  🔗 [**kcalb**](https://kcalb.org/)[**.org**](https://kcalb.org/)
-* **Our community:**               🔗 [**kcalb**](https://kcalb.community/)[**.community**](https://kcalb.community/)
-* **Our cryptocurrency:**  🔗 [**kcalbcoin**](https://kcalbcoin.org/)[**.org**](https://kcalbcoin.org/)
-* **Our collection of NFTs:**   🔗 [**kcanther**](https://kcanther.org/)[**.org**](https://kcanther.org/)
-
-
+* 🔗 [**kcalb**](https://kcalb.org/)[**.org**](https://kcalb.org/) **- Our company** &#x20;
+* 🔗 [**kcalb**](https://kcalb.community/)[**.community**](https://kcalb.community/) **- Our community**             &#x20;
+* 🔗 [**kcalbcoin**](https://kcalbcoin.org/)[**.org**](https://kcalbcoin.org/) **- Our cryptocurrency** &#x20;
+* 🔗 [**kcanther**](https://kcanther.org/)[**.org**](https://kcanther.org/) **- Our collection of NFTs**
 
 ### UPCOMING FEATURES
 
