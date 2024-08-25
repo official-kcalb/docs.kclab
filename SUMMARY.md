@@ -79,8 +79,8 @@
 
 ## 📢 COMMUNITY CONNECT
 
-* [🔗 📌︱Facebook](https://www.facebook.com/kcalb.org/)
 * [🔗 📌︱Discord](https://discord.gg/nPVBTYcR)
+* [🔗 📌︱Facebook](https://www.facebook.com/kcalb.org/)
 * [🔗 📌︱GitHub](https://github.com/official-kcalb)
 * [🔗 📌︱Instagram](https://www.instagram.com/kcalb\_org/)
 * [🔗 📌︱Linkedin](https://www.linkedin.com/company/official-kcalb)
