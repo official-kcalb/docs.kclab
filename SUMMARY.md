@@ -11,21 +11,21 @@
   * [🔗 🔜︱Community](https://kcalb.community)
   * [🔗 🔜︱Investors](https://kcalb-investors.org)
 
-## 🖥️ OUR FEATURED
+## 🖥️ OUR FEATURES
 
-* [WEB 3.O](our-featured/editor/README.md)
+* [WEB 3.O](our-features/editor/README.md)
   * [🔗 🔜︱InoGives](https://inogives.org/)
   * [🔗 🔜︱Ds-NFT](https://ds-nft.org)
   * [🔗 🔜︱InoPlace](https://inoplace.org)
   * [🔗 🔜︱InoStocks](https://inostocks.org)
   * [🔗 🔜︱InoShop](https://inoshop.org)
-* [NFT & Ds-NFT Collections](our-featured/markdown/README.md)
+* [NFT & Ds-NFT Collections](our-features/markdown/README.md)
   * [🔗 ✅︱Kcanther](https://kcanther.org)
-* [Crypto Digital Currencies](our-featured/images-and-media/README.md)
+* [Crypto Digital Currencies](our-features/images-and-media/README.md)
   * [🔗 ✅︱Kcalbcoin](https://kcalbcoin.org)
   * [🔗 🔜︱InoAi](https://inoai.org)
   * [🔗 🔜︱LinKcot$](https://linkcots.org)
-* [DeFi](our-featured/interactive-blocks/README.md)
+* [DeFi](our-features/interactive-blocks/README.md)
   * [🔗 🔜︱Inoswap](https://inoswap.org)
   * [🔗  🔜︱InoPlay](https://inoplay.org)
   * [🔗  🔜︱InoBridge](https://inobridge.org)
