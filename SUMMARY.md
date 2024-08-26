@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Our Story](about-us/our-story.md)
 * [Goal](getting-started/quickstart.md)
-* [Behind the Scenes](getting-started/page-expl.md)
+* [What's coming](about-us/whats-coming.md)
 * [Official WebSite](about-us/official-website/README.md)
   * [🔗 🌐︱Kcalb](https://kcalb.org)
   * [🔗 🔜︱Community](https://kcalb.community)
