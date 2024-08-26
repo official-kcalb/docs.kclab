@@ -15,9 +15,9 @@
 
 * [WEB 3.O](our-features/editor/README.md)
   * [🔗 🔜︱InoGives](https://inogives.org/)
-  * [🔗 🔜︱Ds-NFT](https://ds-nft.org)
-  * [🔗 🔜︱InoPlace](https://inoplace.org)
+  * [🔗 🔜︱DS-NFT](https://ds-nft.org)
   * [🔗 🔜︱InoStocks](https://inostocks.org)
+  * [🔗 🔜︱InoPlace](https://inoplace.org)
   * [🔗 🔜︱InoShop](https://inoshop.org)
 * [NFT & Ds-NFT Collections](our-features/markdown/README.md)
   * [🔗 ✅︱Kcanther](https://kcanther.org)
