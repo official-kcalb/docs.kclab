@@ -20,11 +20,13 @@ layout:
 
 # Our Story
 
-[Kcalb Ltd](https://kcalb.org/)'s mission started growing in the minds of our three co-founders in 2022. As we observed the cryptocurrency industry evolve, we realized there was both a need and an opportunity to make it more **accessible** and **trusted** for diverse **individuals** and **entrepreneurs**, empowering them to fully utilize it.
+[Kcalb Ltd](https://kcalb.org/)'s mission started growing in the minds of our three co-founders in 2022.&#x20;
 
-With this in mind, the creation of an ecosystem began, to support members of the community and their initiatives but also to leverage the powerful <mark style="color:blue;">**synergy**</mark> between **technology** and **creativity**.
+As we observed the Web 3.0 industry evolving, we identified a need to make it more **accessible** and **trustworthy** for those who wanted to use it, empowering everyone to fully utilize its potential.
 
-We strongly believe that a user-friendly and trusted environment empowers everyone to reach their **fullest potential,** which is why we decided to prioritize **accessibility** and **transparency**.
+With this in mind, we began to create an **ecosystem of solutions** to support community members and their initiatives. This ecosystem leverages the powerful <mark style="color:purple;">**synergy**</mark> between **technology** & **creativity** without compromising transparency and trust.
 
-As the three of us are based on different continents, Kcalb Ltd benefits from a **global perspective** on the needs for support, collaboration and communication.
+We strongly believe that a user-friendly and trustworthy environment empowers everyone to reach their **fullest potential**. That's why we prioritised **accessibility** and **transparency** for Kcalb Ltd digital landscape users.
+
+Moreover, as the three of us are based on different continents, Kcalb Ltd benefits from a **global perspective** on the needs for support, collaboration and communication.
 

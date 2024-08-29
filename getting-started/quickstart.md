@@ -10,13 +10,13 @@ coverY: 0
 
 ## I.N.O. = INNOVATE -> NETWORK -> OUTSHINE
 
-Kcalb drives **innovation** to expand your **network** and help you **outshine.**
+Kcalb ecosystem drives **innovation** to expand your **network** and help you **outshine.**
 
 * ## INNOVATE
 
-Based on our first observation, we are building a **pillar ecosystem** in the crypto space.
+Based on our first observation, we are building a **pillar ecosystem** in the Web 3.0 landscape.
 
-**Global, multifunctional** and **inclusive**, Kcalb aims to increase the number of active individuals and entrepreneurs users of the decentralised sphere. By providing easy-to-use tools, newcomers will be empowered to drive innovation themselves.
+**Global, multifunctional** and **inclusive**, Kcalb solutions aim to increase the number of active individuals and entrepreneurs users of the decentralised sphere. By providing easy-to-use tools, newcomers will be empowered to drive innovation themselves.
 
 * ## NETWORK
 

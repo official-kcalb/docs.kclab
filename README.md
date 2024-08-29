@@ -20,19 +20,29 @@ layout:
 
 # Introduction
 
-Get ready to rock with Kcalb Ltd - the adventure starts now !
 
-A whole new world is opening to you. Are you ready?!
 
-[<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) is a team of metaverse aficionados who are building an innovative blockchain ecosystem with advanced and user-friendly digital solutions like you never seen before.
+_**Kcalb Ltd ecosystem provides user friendly solutions in the Web 3.0.**_
 
-Are you an individual or entrepreneur with bold ideas? [<mark style="color:purple;">**Kcalb Ltd**</mark>](https://kcalb.org/) supports you in turning them into reality, pushing boundaries and setting new standards in innovation and metaverse accessibility.&#x20;
+Developed by a team of 3 aficionados of decentralisation and metaverse, Kcalb Ltd **innovative network** gives everyone access to multiple and user-friendly digital tools like it was **never done before**.
+
+Web 3.0 world is expanding, Kcalb Ltd makes it **accessible** and **transparent** to you.
+
+<mark style="color:orange;">Let's explore !</mark>
+
+Whether you are an individual with (bold) ideas or entrepreneur seeking for expanding your business (or not), Kcalb Ltd solutions are here to support turning your vision into **reality**, setting new standards in transparency, innovation and metaverse accessibility.&#x20;
 
 Explore a world where advanced technology and transparency merge to reveal new horizons ✨
 
+
+
 ***
 
-Registered in **London** in the United Kingdom under company number [<mark style="color:purple;">**14132246**</mark>](https://find-and-update.company-information.service.gov.uk/company/14132246) since 2022.&#x20;
+_Registered in London in the United Kingdom under company number_ [_<mark style="color:purple;">**14132246**</mark>_](https://find-and-update.company-information.service.gov.uk/company/14132246) _since 2022._&#x20;
+
+
+
+<mark style="color:orange;">Orange = je suis pas sure</mark>&#x20;
 
 ### Jump right in
 
