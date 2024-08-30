@@ -20,19 +20,11 @@ layout:
 
 # Introduction
 
+**KCALB LTD**, based in London, UK, is a company focused on developing tools for Web 3.0 and the metaverse. Strong in its belief in this new digital era, the company strives to create solutions that meet the needs of technological evolution.
 
+Our team works with a clear vision: to make Web 3.0 a reliable and tangible digital space.
 
-_**Kcalb Ltd ecosystem provides user friendly solutions in the Web 3.0.**_
-
-Developed by a team of 3 aficionados of decentralisation and metaverse, Kcalb Ltd **innovative network** gives everyone access to multiple and user-friendly digital tools like it was **never done before**.
-
-Web 3.0 world is expanding, Kcalb Ltd makes it **accessible** and **transparent** to you.
-
-<mark style="color:orange;">Let's explore !</mark>
-
-Whether you are an individual with (bold) ideas or entrepreneur seeking for expanding your business (or not), Kcalb Ltd solutions are here to support turning your vision into **reality**, setting new standards in transparency, innovation and metaverse accessibility.&#x20;
-
-Explore a world where advanced technology and transparency merge to reveal new horizons ✨
+KCALB LTD is convinced that this new digital era should be a source of concrete opportunities for every user. This is why we have developed freely accessible tools at the heart of an innovative ecosystem, focused on reliability and accessibility.
 
 
 
