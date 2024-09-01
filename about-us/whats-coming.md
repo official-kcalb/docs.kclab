@@ -1,3 +1,3 @@
 # What's coming
 
-<figure><img src="../.gitbook/assets/Roadmap KCALB (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Roadmap KCALB - update.jpg" alt=""><figcaption></figcaption></figure>
