@@ -1,12 +1,8 @@
 ---
 icon: bullseye-arrow
-cover: ../.gitbook/assets/Kcalb Site 1.jpg
-coverY: 0
 ---
 
 # Goal
-
-<figure><img src="../.gitbook/assets/5 Kcalb Ltd - Icon - Top - Black - Rectangle copie.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## I.N.O. = INNOVATE -> NETWORK -> OUTSHINE
 

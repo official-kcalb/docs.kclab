@@ -1,11 +1,6 @@
 ---
 icon: circle-play
-cover: .gitbook/assets/Kcalb Site 1.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
