@@ -25,6 +25,6 @@ We encourage [**Kcalb Ltd**](https://kcalb.ltd) users and supporters to use our 
 
 ## **Full LOGO**
 
-\
-CLAW - KCALB LTD\
+## CLAW - KCALB LTD
+
 PNG
