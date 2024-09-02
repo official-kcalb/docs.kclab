@@ -14,4 +14,8 @@ We value your privacy and will ensure your information is protected.
 
 ## [Subscribe Now](https://aecb16de.sibforms.com/serve/MUIFAEP8XjI\_2wUwdeDlZwbdcotFz\_3ljO8VWr68p408Sh1CGeCwu32orwc1hqvYdE2jGbEcvwMhW5nVn3exTfrFqU0apgvlbJskmkTd3NY7aFxPlpaFLiLJ1DpHsPBWyk7oqINLTg8znQjlOMuUVDkSn-y5Okr626656D7L66b8fRBVLVxT4raa18s1uv1OAyXAqkIZQBdD5s\_E)
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/Kcalb Ltd _ Opt-in form QR code.png" alt="Kcalb Ltd Newsletter subscription" width="160"><figcaption></figcaption></figure>
+
+</div>
