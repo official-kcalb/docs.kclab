@@ -15,13 +15,15 @@ layout:
 
 # Our Story
 
-[Kcalb Ltd](https://kcalb.org/)'s mission started growing in the minds of our three co-founders in 2022.&#x20;
+[Kcalb Ltd](https://kcalb.org/) was founded in 2018, but it was in 2022 that everything truly began. The founding team was early to explore the new worlds of Web 3.0 and artificial intelligence.
 
-As we observed the Web 3.0 industry evolving, we identified a need to make it more **accessible** and **trustworthy** for those who wanted to use it, empowering everyone to fully utilize its potential.
+Indeed, many incredible projects emerge daily in this new era filled with scripts and code. However, this dynamic also attracts dark practices, where some take advantage of misinformation.&#x20;
 
-With this in mind, we began to create an **ecosystem of solutions** to support community members and their initiatives. This ecosystem leverages the powerful <mark style="color:purple;">**synergy**</mark> between **technology** & **creativity** without compromising transparency and trust.
+The accumulation of these black entities has created a complex and uncertain environment. It is within this context that the story of [Kcalb Ltd](https://kcalb.org/) was born, with the ambition to make a difference.
 
-We strongly believe that a user-friendly and trustworthy environment empowers everyone to reach their **fullest potential**. That's why we prioritised **accessibility** and **transparency** for Kcalb Ltd digital landscape users.
+Its development is dynamic thanks to its members who share the same passion. The built of its personalised network truly began with its registration in London, United Kingdom.
 
-Moreover, as the three of us are based on different continents, Kcalb Ltd benefits from a **global perspective** on the needs for support, collaboration and communication.
+Over the years and until its official launch with the [Kcanther](https://kcanther.org/) collection, the team has created an ecosystem leading to new futures. The journey to this strategic milestone is built through a sequence of strategically planned deployments.&#x20;
+
+Stay updated and let’s shape the next chapters of this exciting adventure together, with the mission to transcend time.
 
