@@ -2,7 +2,9 @@
 
 [Kcalb Ltd ](https://kcalb.org/)roadmap all coming initiatives and milestones to be launch.
 
-Kcanther
+Kcanther - Web 3.0&#x20;
+
+TBC Pauline to do
 
 
 
