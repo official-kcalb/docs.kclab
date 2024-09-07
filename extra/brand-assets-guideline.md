@@ -23,8 +23,186 @@ We encourage [**Kcalb Ltd**](https://kcalb.ltd) users and supporters to use our 
 * Do not imply any official partnership or endorsement by [**Kcalb Ltd**](https://kcalb.ltd) unless it has been explicitly granted.
 * Do not use [**Kcalb Ltd**](https://kcalb.ltd) brand assets to promote other financial, crypto, or DeFi services without prior approval.
 
-## **Full LOGO**
 
-## CLAW - KCALB LTD
 
-PNG
+***
+
+## **LOGO - FULL**
+
+_PNG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background.png" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background.png" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (1).png" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/White logo - no background.png" alt=""><figcaption><p>WHITE - no background</p></figcaption></figure>
+
+</div>
+
+_SVG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (6).svg" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (6).svg" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (6).svg" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+</div>
+
+***
+
+## **LOGO - Icon and "Kcalb"**
+
+_PNG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (1).png" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (1).png" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (2).png" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/White logo - no background (1).png" alt=""><figcaption><p>WHITE - no background</p></figcaption></figure>
+
+</div>
+
+_SVG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (5).svg" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (5).svg" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (5).svg" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+</div>
+
+***
+
+## **LOGO - "Kcalb" and moto**
+
+_PNG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (2).png" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (2).png" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (3).png" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/White logo - no background (2).png" alt=""><figcaption><p>WHITE - no background</p></figcaption></figure>
+
+</div>
+
+_SVG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (1).svg" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (1).svg" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (1).svg" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+</div>
+
+***
+
+## **LOGO - "Kcalb"**
+
+_PNG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (3).png" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (3).png" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (4).png" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/White logo - no background (3).png" alt=""><figcaption><p>WHITE - no background</p></figcaption></figure>
+
+</div>
+
+_SVG format_
+
+<div>
+
+<figure><img src="../.gitbook/assets/Black logo - no background (2).svg" alt=""><figcaption><p>BLACK - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo - no background (2).svg" alt=""><figcaption><p>COLOR - no background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Color logo with background (2).svg" alt=""><figcaption><p>COLOR - with background</p></figcaption></figure>
+
+</div>
+
+***
+
+## **LOGO - Icon only**
+
+_PNG format_
+
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/White background (4).png" alt=""><figcaption><p>White background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/No background (1).png" alt=""><figcaption><p>Transparent background</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Black background.png" alt=""><figcaption><p>Black background</p></figcaption></figure>
+
+</div>
