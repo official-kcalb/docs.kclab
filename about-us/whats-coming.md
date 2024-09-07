@@ -1,7 +1,3 @@
----
-description: EN COURS D'ECRITURE (PAULINE)
----
-
 # What's coming
 
 [**Kcalb Ltd**](https://kcalb.org/) roadmap is meticulously planned, detailing all upcoming initiatives and strategic milestones.&#x20;
