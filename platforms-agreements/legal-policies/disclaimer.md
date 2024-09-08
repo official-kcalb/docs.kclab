@@ -6,7 +6,7 @@
 
 
 
-The Sites and Services are provided on an "as is" and "as available" basis. [KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246) makes no representations or warranties of any kind, express or implied, as to the operation of the Sites or the information, content, materials, or products included on the Sites.
+The Sites and Services are provided on an "as is" and "as available" basis. [**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) makes no representations or warranties of any kind, express or implied, as to the operation of the Sites or the information, content, materials, or products included on the Sites.
 
 To the fullest extent permissible by applicable law, **KCALB LTD** disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
 

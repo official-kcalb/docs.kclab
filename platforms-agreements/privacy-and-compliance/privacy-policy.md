@@ -23,7 +23,7 @@ In summary, **KCALB LTD** is dedicated to safeguarding your privacy. We collect 
 We collect various types of data to provide and improve our services:
 
 * **Personal Data**: This includes information that can be used to identify you as an individual, such as your name, email address, phone number, date of birth, and government-issued identification numbers.
-* **Financial Data**: This includes payment information, bank account details, walletr details, and transaction histories related to the use of our services.
+* **Financial Data**: This includes payment information, bank account details, wallet details, and transaction histories related to the use of our services.
 * **Technical Data**: This includes information about your device, internet connection, IP address, browser type, and operating system.
 * **Usage Data**: This includes information about how you use our websites and services, such as the pages you visit, the time and duration of your visits, and your interactions with our platform.
 * **KYC Data**: This includes information collected during the Know Your Customer verification process, such as copies of identification documents and proof of address.
