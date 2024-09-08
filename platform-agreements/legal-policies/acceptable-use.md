@@ -4,7 +4,7 @@ Users must not engage in any activity that may harm the website or its users (e.
 
 Users must respect all applicable laws and regulations while using the websites.
 
-Creating a user account on [kcalb.org](https://kcalb.org/) constitutes acceptance of these [Terms and Conditions](../../terms-and-conditions/legal-policies/terms-and-conditions.md).
+Creating a user account on [kcalb.org](https://kcalb.org/) constitutes acceptance of these [Terms and Conditions](terms-and-conditions.md).
 
 You will need a blockchain address and a third-party wallet to connect to the Sites and access the Services. Your account for the Services (“Account”) will be linked to your blockchain address.
 
