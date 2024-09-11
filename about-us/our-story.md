@@ -24,7 +24,7 @@ The accumulation of these black entities has created a complex and uncertain env
 
 Its development is dynamic thanks to its members who share the same passion. The built of its personalised network truly began with its registration in London, United Kingdom.
 
-Over the years and until its official launch with the [**Kcanther**](https://kcanther.org/) collection, the team has created an ecosystem leading to new futures. The journey to this strategic milestone is built through a sequence of strategically planned deployments.&#x20;
+Over the years and until its official launch with the [**Kcanther**](https://kcanther.org/) collection, the team has created an **ecosystem** leading to **new futures**. The journey to this strategic milestone is built through a sequence of [**strategically planned deployments**](whats-coming.md).&#x20;
 
-Stay updated and let’s shape the next chapters of this exciting adventure together, with the mission to transcend time.
+[Stay updated](https://aecb16de.sibforms.com/serve/MUIFAEP8XjI\_2wUwdeDlZwbdcotFz\_3ljO8VWr68p408Sh1CGeCwu32orwc1hqvYdE2jGbEcvwMhW5nVn3exTfrFqU0apgvlbJskmkTd3NY7aFxPlpaFLiLJ1DpHsPBWyk7oqINLTg8znQjlOMuUVDkSn-y5Okr626656D7L66b8fRBVLVxT4raa18s1uv1OAyXAqkIZQBdD5s\_E) and let’s shape the next chapters of this exciting adventure together, with the mission to transcend time.
 
