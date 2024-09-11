@@ -1,5 +1,6 @@
 ---
 icon: head-side-gear
+description: How Kcalb Ltd story began.
 layout:
   title:
     visible: true
@@ -15,11 +16,11 @@ layout:
 
 # Our Story
 
-[**Kcalb Ltd**](https://kcalb.org/) was founded in 2018, but it's in 2022 that everything truly began. The founding team was early to explore the new worlds of Web 3.0 and artificial intelligence.
+[**Kcalb Ltd**](https://kcalb.org/) was founded in 2018, but it's in 2022 that everything truly began. The founding team was early to explore the new worlds of **Web 3.0** and **artificial intelligence**.
 
 Indeed, many incredible projects emerge daily in this new era filled with scripts and code. However, this dynamic also attracts dark practices, where some take advantage of misinformation.&#x20;
 
-The accumulation of these black entities has created a complex and uncertain environment. It is within this context that the story of [**Kcalb Ltd**](https://kcalb.org/) was born, with the ambition to make a difference.
+The accumulation of these black entities has created a complex and uncertain environment. It is within this context that the story of [**Kcalb Ltd**](https://kcalb.org/) was born, with the ambition to **make a difference**.
 
 Its development is dynamic thanks to its members who share the same passion. The built of its personalised network truly began with its registration in London, United Kingdom.
 
