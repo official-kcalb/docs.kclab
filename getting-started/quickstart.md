@@ -1,12 +1,13 @@
 ---
 icon: bullseye-arrow
+description: >-
+  Kcalb ecosystem drives innovation to expand your network and help you
+  outshine.
 ---
 
 # Goal
 
 ## I.N.O. = INNOVATE -> NETWORK -> OUTSHINE
-
-Kcalb ecosystem drives **innovation** to expand your **network** and help you **outshine.**
 
 * ## INNOVATE
 
