@@ -1,6 +1,6 @@
 # ➡️ 🛡️︱Privacy Policy
 
-[KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our websites and use our services.
+[**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our websites and use our services.
 
 We may collect personal information that you voluntarily provide to us when you register on the websites, make a purchase, or contact us for support. This information may include your name, email address, phone number, payment information, and other details necessary to provide our services.
 
@@ -12,11 +12,11 @@ KYC Information**,** as part of our commitment to regulatory compliance, we coll
 
 To maintain the safety of your personal information, we implement a variety of security measures. These may include encryption, access controls, and secure data storage technologies. Despite these efforts, it is important to understand that no method of transmission over the Internet or method of electronic storage is completely secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We encourage you to take steps to protect your personal information, such as choosing a strong password and keeping your login credentials confidential.
 
-In summary, **KCALB LTD** is dedicated to safeguarding your privacy. We collect and use your personal information to enhance your experience with our services, ensure the security of your transactions, and comply with legal requirements. We take privacy and security seriously and are continuously working to protect your personal information from unauthorized access or disclosure. If you have any questions or concerns about our Privacy Policy or the handling of your personal information, please do not hesitate to contact us.
+In summary, [**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) is dedicated to safeguarding your privacy. We collect and use your personal information to enhance your experience with our services, ensure the security of your transactions, and comply with legal requirements. We take privacy and security seriously and are continuously working to protect your personal information from unauthorized access or disclosure. If you have any questions or concerns about our Privacy Policy or the handling of your personal information, please do not hesitate to contact us.
 
 ## Data Processing Details
 
-[KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to ensuring that all personal data collected from users is processed in accordance with applicable data protection laws, including the UK General Data Protection Regulation ([UK-GDPR](uk-gdpr.md)). This section outlines the types of data we collect, how we process it, and the measures we take to protect your information.
+[**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to ensuring that all personal data collected from users is processed in accordance with applicable data protection laws, including the UK General Data Protection Regulation ([UK-GDPR](uk-gdpr.md)). This section outlines the types of data we collect, how we process it, and the measures we take to protect your information.
 
 **Types of Data Collected**
 

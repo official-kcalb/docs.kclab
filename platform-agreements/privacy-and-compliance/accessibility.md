@@ -1,6 +1,6 @@
 # ➡️ ♿️︱Accessibility
 
-[KCALB LTD](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to ensuring that our websites is accessible to individuals with disabilities. We strive to provide an accessible and barrier-free environment for everyone. Our goal is to make our websites inclusive and usable for all users, regardless of their abilities or disabilities.
+[**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) is committed to ensuring that our websites is accessible to individuals with disabilities. We strive to provide an accessible and barrier-free environment for everyone. Our goal is to make our websites inclusive and usable for all users, regardless of their abilities or disabilities.
 
 We continuously work to improve the accessibility of our websites to ensure that all users can access our content and services. This ongoing effort includes following best practices and standards as defined by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG). The WCAG guidelines help us create web content that is perceivable, operable, understandable, and robust for all users. By adhering to these standards, we aim to provide a seamless and enjoyable experience for everyone who visits our site.
 
