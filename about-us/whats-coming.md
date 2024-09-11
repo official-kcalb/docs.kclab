@@ -12,7 +12,7 @@ In **2025**, [**Kcalb Ltd**](https://kcalb.org/) will launch [**InoGives**](http
 
 This year will also mark significant advancements, with the launch of the [**InoAi.Live**](https://inoai.live/) **blockchain**, its native token [**LinKcot$**](https://linkcots.org/), and **DeFi** integration.
 
-Looking ahead to **2026**, the focus will shift towards the deployment of Web 3.0 solutions, including [**InoPlace**](https://inoplace.org), [**InoStocks**](https://inostocks.org), and [**InoShop**](https://inoshop.org/), along with the launch of the [**DS-NFT**](https://ds-nft.org/) platform—a hub showcasing comprehensive summaries of validated projects and companies, endorsed by [**Kcalb Ltd**](https://kcalb.org/) and [**Kcanther**](https://kcanther.org/) holders.
+Looking ahead to **2026**, the focus will shift towards the deployment of Web 3.0 solutions, including [**InoPlace**](https://inoplace.org), [**InoStocks**](https://inostocks.org), and [**InoShop**](https://inoshop.org/), along with the launch of the [**DS-NFT**](https://ds-nft.org/) platform — a hub showcasing comprehensive summaries of validated projects and companies, endorsed by [**Kcalb Ltd**](https://kcalb.org/) and [**Kcanther**](https://kcanther.org/) holders.
 
 
 
