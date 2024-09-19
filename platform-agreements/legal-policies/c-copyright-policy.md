@@ -1,6 +1,6 @@
 # ➡️ ©️︱Copyright Policy
 
-[**KCALB LTD**](https://find-and-update.company-information.service.gov.uk/company/14132246) respects the intellectual property rights of others and expects our users to do the same. It is our policy to terminate, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others.
+[**Kcalb Ltd**](https://find-and-update.company-information.service.gov.uk/company/14132246) respects the intellectual property rights of others and expects our users to do the same. It is our policy to terminate, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others.
 
 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information:
 
