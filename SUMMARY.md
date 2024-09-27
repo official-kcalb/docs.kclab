@@ -13,7 +13,7 @@
 
 ## 🖥️ OUR FEATURES
 
-* [WEB 3.O](our-features/editor/README.md)
+* [Web 3.0](our-features/editor/README.md)
   * [🔗 🔜︱InoGives](https://inogives.org/)
   * [🔗 🔜︱DS-NFT](https://ds-nft.org)
   * [🔗 🔜︱InoStocks](https://inostocks.org)
