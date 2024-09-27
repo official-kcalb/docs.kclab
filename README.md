@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -20,8 +20,6 @@ layout:
 Our team works with a clear vision: to make Web 3.0 a reliable and tangible digital space.
 
 [**Kcalb Ltd**](https://kcalb.org/) is convinced that this new digital era should be a source of concrete **opportunities** for every user. This is why we have developed freely accessible tools at the heart of an innovative ecosystem, focused on **reliability** and **accessibility**.
-
-
 
 ***
 
